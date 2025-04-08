@@ -13,9 +13,9 @@
     <module>testMvnProject83CompositeExporter</module>
   </modules>
   <scm>
-    <connection>scm:git:https://github.com/Samitha-001/mvnRepository.git</connection>
-    <developerConnection>scm:git:https://github.com/Samitha-001/mvnRepository.git</developerConnection>
-    <url>https://github.com/Samitha-001/mvnRepository.git</url>
+    <connection>scm:git:https://github.com/Samitha-001/testMvnProject83.git</connection>
+    <developerConnection>scm:git:https://github.com/Samitha-001/testMvnProject83.git</developerConnection>
+    <url>https://github.com/Samitha-001/testMvnProject83.git</url>
   </scm>
   <distributionManagement>
     <repository>
